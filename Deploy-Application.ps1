@@ -141,7 +141,7 @@ Try {
 		}
 
 		## <Perform Installation tasks here>
-		Execute-Process -Path "RStudio-${appVersion}.exe" -Parameters "/S" -WindowStyle "Hidden" -PassThru
+		Execute-Process -Path "$dirFiles\RStudio-${appVersion}.exe" -Parameters "/S" -WindowStyle "Hidden" -PassThru
 
 		##*===============================================
 		##* POST-INSTALLATION
