@@ -67,7 +67,7 @@ Try {
 	## Variables: Application
 	[string]$appVendor = ''
 	[string]$appName = 'Rstudio'
-	[string]$appVersion = '1.0.136'
+	[string]$appVersion = '1.0.143'
 	[string]$appArch = 'x86'
 	[string]$appLang = 'EN'
 	[string]$appRevision = '01'
