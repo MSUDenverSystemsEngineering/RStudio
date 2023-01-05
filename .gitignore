@@ -34,3 +34,9 @@ $RECYCLE.BIN/
 
 # RDP file
 Default.rdp
+
+# Ignores Files directory
+Files/
+
+# Ignores SupportFiles directory
+SupportFiles/
